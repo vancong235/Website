@@ -1,0 +1,7 @@
+Đây là đồ án tốt nghiệp của Nguyễn Anh Tú.
+lưu ý khi cài đặt nếu chạy trên môi trường Xampp cần lưu ý Port để sủa trong code cho đúng. 
+File config 
+define('BASE_URL', 'http://localhost:82/Website/');
+Ở đây vì mình dùng Port 82 nên mình để 82 nếu ai dùng port mặc định 80 thì xóa số 82 đi.
+Trang admin: http://localhost:82/Website/dangnhap
+Tài khoản đăng nhập /admin tk: admin mk: admin
